@@ -2,4 +2,4 @@
 
 Este es el primer boceto visual conceptual del filtro **IA Emocional**, representando cómo se reflejan las emociones detectadas mediante efectos visuales:
 
-![Boceto IA Emocional](https://github.com/Thrumanshow/hormigasais-effectlab-base/blob/main/design/ia_emocional_boceto.jpg?raw=true)
+![ia-emocional-sketch.png](https://github.com/Thrumanshow/hormigasais-effectlab-base/blob/main/design/ia_emocional_boceto.jpg?raw=true)
