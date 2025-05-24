@@ -26,7 +26,8 @@ El filtro permite a los usuarios expresar emociones a través de efectos visuale
 ### Boceto visual del filtro Este es el primer boceto visual conceptual del filtro 
 **IA Emocional** 
 
-representando cómo se reflejan las emociones detectadas mediante efectos visuales: ![ia-emocional.png](https://github.com/Thrumanshow/hormigasais-effectlab-base/blob/main/design/ia_emocional_boceto.jpg?raw=true) 
+representando cómo se reflejan las emociones detectadas mediante efectos visuales: ![boceto-ai-emocional.png](https://github.com/user-attachments/assets/91227602-83b9-429c-91be-5bd074a21297
+
 
 - **Alegría:** fondo de día soleado, mariposas, flores.
 - **Tristeza:** lluvia suave, tonos azules, hojas cayendo.
