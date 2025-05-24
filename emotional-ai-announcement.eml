@@ -1,0 +1,69 @@
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="HormigasAIS-boundary"
+
+--HormigasAIS-boundary
+Content-Type: text/plain; charset="UTF-8"
+
+Desde HormigasAIS-community, un espacio donde la inteligencia artificial y la creatividad humana se encuentran, presentamos nuestro nuevo experimento para TikTok: el filtro Emotional AI.
+
+¿Qué es la IA emocional?
+
+Un filtro que detecta emociones faciales y las convierte en visuales inmersivos:
+
+- Alegría: mariposas y flores.
+- Tristeza: lluvia suave y tonos azules.
+- Sorpresa: partículas brillantes.
+- Enojo: rayos y viento fuerte.
+
+¿Por qué lo hicimos?
+
+Porque creemos en una IA con emociones. En crear experiencias digitales que inspiren empatía, juego y conexión.
+
+Accedé al diseño completo y al sketch visual en GitHub:
+[GitHub - HormigasAIS Emotional AI](https://github.com/HormigasAIS/EmotionalAI)
+
+¿Querés conocer más sobre nuestro laboratorio?
+
+Visitá nuestro blog donde explicamos la filosofía detrás de HormigasAIS, proyectos abiertos, recursos y comunidad.
+
+HormigasAIS en Blogspot: https://hormigasais.blogspot.com/
+
+Con la mente curiosa y el corazón dispuesto,  
+Cristhiam Quiñónez | HormigasAIS
+
+Sigue el desarrollo en:  
+HormigasAIS-community
+
+--HormigasAIS-boundary
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body style="font-family: sans-serif; line-height: 1.6;">
+    <p><strong>Desde HormigasAIS-community</strong>, un espacio donde la inteligencia artificial y la creatividad humana se encuentran, presentamos nuestro nuevo experimento para TikTok: el <strong>filtro Emotional AI</strong>.</p>
+
+    <h3>¿Qué es la IA emocional?</h3>
+    <p>Un filtro que detecta emociones faciales y las convierte en visuales inmersivos:</p>
+    <ul>
+      <li><strong>Alegría</strong>: mariposas y flores.</li>
+      <li><strong>Tristeza</strong>: lluvia suave y tonos azules.</li>
+      <li><strong>Sorpresa</strong>: partículas brillantes.</li>
+      <li><strong>Enojo</strong>: rayos y viento fuerte.</li>
+    </ul>
+
+    <h3>¿Por qué lo hicimos?</h3>
+    <p>Porque creemos en una IA con emociones. En crear experiencias digitales que inspiren empatía, juego y conexión.</p>
+
+    <p><a href="https://github.com/HormigasAIS/EmotionalAI">Accedé al diseño completo y al sketch visual en GitHub</a></p>
+
+    <p>¿Querés conocer más sobre nuestro laboratorio?</p>
+    <p>Visitá nuestro blog: <a href="https://hormigasais.blogspot.com/">HormigasAIS en Blogspot</a></p>
+
+    <p><em>Con la mente curiosa y el corazón dispuesto,</em><br>
+    <strong>Cristhiam Quiñónez</strong> | HormigasAIS</p>
+
+    <p>Sigue el desarrollo en:<br>
+    <a href="https://github.com/HormigasAIS/HormigasAIS-community">HormigasAIS-community</a></p>
+  </body>
+</html>
+
+--HormigasAIS-boundary--
