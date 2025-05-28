@@ -62,6 +62,24 @@ Síguenos, estudia el ritmo... y crea tu propio efecto.
 
 ---
 
+## 🤝 Cómo contribuir
+¿Tienes una idea loca o funcional para sumar al Effect Lab?
+- Haz un fork
+- Clona el repositorio
+- Propón tu efecto o mejora en `experiments/`
+- Crea un Pull Request con el hashtag #WarriorEffect
+
+*Cada contribución deja una chispa en este laboratorio.*
+
+---
+
+## 📄 Licencia
+Este proyecto se distribuye bajo una licencia libre y experimental:
+- Uso libre con crédito a HormigasAIS y los colaboradores.
+- Prohibida su reventa sin modificación ni atribución.
+
+---
+
 # AI Effect Challenge 2025  
 
 ## ES / Español
