@@ -1,3 +1,67 @@
+
+# HormigasAIS Effect Lab Base
+
+🎛️ **Creative core of the Warrior flow.**  
+El nodo donde la automatización, la IA y el contenido con estilo se combinan para dar vida a TikToks, hacks y experimentos únicos.
+
+---
+
+## ⚙️ ¿Qué es este repositorio?
+
+Este es el laboratorio base de **HormigasAIS**, curado por [Chris Warrior](https://github.com/Thrumanshow).  
+Aquí fusionamos:
+
+- 🎨 **Arte urbano**  
+- 🤖 **Inteligencia Artificial accesible**  
+- 🎶 **Música y movimiento**  
+- ⚡ **Automatización con propósito**
+
+Es más que un repositorio: es un **ritmo digital con alma**.
+
+---
+
+## 🔍 ¿Qué puedes encontrar?
+
+| Sección | Descripción |
+|--------|-------------|
+| `n8n/` | Flujos automatizados listos para usar |
+| `guides/` | Guías Markdown para TikTok y redes |
+| `tools/` | Scripts y conectores IA + contenido |
+| `experiments/` | Prototipos con APIs, IA y visuales |
+| `community.md` | Colaboraciones y enlaces a proyectos |
+
+---
+
+## 🧭 Multilingual tagline
+
+> **EN:** Creating humanized automation with style and rhythm.  
+> **ES:** Automatización humanizada con estilo y ritmo.  
+> **PT:** Automação humanizada com estilo e ritmo.  
+> **FR:** Automatisation humanisée avec style et rythme.
+
+---
+
+## 🧠 SEO & exploradores digitales
+
+`#HormigasAIS #ChrisWarrior #IA #TikTokTools #AutomatizaciónCreativa #n8n #OpenLab #ContenidoDigital #ArteConIA #BarberStyle #DigitalFlow`
+
+---
+
+## 🐜 Manifiesto Warrior
+
+> *Con la mente curiosa y el corazón dispuesto,*  
+> *creamos, automatizamos y compartimos.*  
+>  
+> Este laboratorio es una extensión de lo que somos:  
+> **colaborativos, humanos y con visión digital**.
+
+---
+
+**🧬 Powered by HormigasAIS | Written by Chris Warrior (a.k.a XOXO)**  
+Síguenos, estudia el ritmo... y crea tu propio efecto.
+
+---
+
 # AI Effect Challenge 2025  
 
 ## ES / Español
@@ -135,45 +199,4 @@
 *"AI has a heart too. Connect with your emotions and share them with the world. Discover HormigasAIS’s new filter: Emotional AI."*
 
 ---
-
-# HormigasAIS Effect Lab Base
-
-**El núcleo creativo y técnico de HormigasAIS.**
-
-Aquí se diseñan, prueban y documentan flujos automatizados para contenido de alto impacto en TikTok, integrando:
-
-- Inteligencia Artificial aplicada  
-- Motion y estilo urbano  
-- Música original y efectos digitales  
-
-**Creado y mantenido por:** [Chris Warrior](https://github.com/Thrumanshow)  
-_Un laboratorio vivo donde el arte callejero, el pensamiento algorítmico y la creatividad colaborativa se entrelazan._
-
----
-
-## ¿Qué puedes encontrar aquí?
-
-- Automatizaciones **n8n** para producción de contenido  
-- Guías **Markdown** listas para usar en TikTok y redes sociales  
-- Herramientas para conectar IA con estilo, música y comunidad  
-- Prototipos visuales y experimentos controlados por **API**  
-- Documentación abierta para compartir el conocimiento con la comunidad
-
----
-
-## Tagline multilingüe
-
-**EN:** *Creating humanized automation with style and rhythm.*  
-**ES:** *Automatización humanizada con estilo y ritmo.*  
-**PT:** *Automação humanizada com estilo e ritmo.*  
-**FR:** *Automatisation humanisée avec style et rythme.*
-
----
-
-## Palabras clave para exploradores (SEO friendly)
-
-`#IA #AutomatizaciónCreativa #TikTokTools #HormigasAIS #ChrisWarrior #ContenidoDigital #OpenLab #n8n #BarberStyle #ArteDigital #AIUX`
-
----
-
-> *Este repositorio es parte del ecosistema HormigasAIS — donde las ideas digitales toman forma y ritmo.
+ 
